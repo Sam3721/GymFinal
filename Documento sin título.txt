@@ -1,0 +1,6 @@
+﻿El siguiente documento se usará para explicar los principios de diseño usados en el código
+
+
+El principio de sustitución de liskov es usado en el servlet del código para que por medio de la clase padre (rutina) se apliquen los métodos necesarios en las clases hijas con los datos que deposite el usuario.
+Los principios SOLID también hacen presencia en todo el código ya sea el abierto/cerrado con liskov o el de responder unica con loa función de guardar y brindar una respuesta al usuario
+Junto con el principio de KISS al no tener contenido innecesario en ningún momento.
